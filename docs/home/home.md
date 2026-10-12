@@ -1,6 +1,6 @@
 # askFinz — AI workspaces, every AI model and its own web index
 
-askFinz brings 380+ AI models, 26 workspaces and its own web index to one sign-in. Extension and desktop browser from $8.19 a month, plus cloud and askFinz OS.
+askFinz brings 380+ AI models, 29 workspaces and its own web index to one sign-in. Extension and desktop browser from $8.19 a month, plus cloud and askFinz OS.
 
 **Canonical page:** [https://askfinz.com/](https://askfinz.com/)
 
@@ -68,9 +68,9 @@ Our agents are specialized and collaborative. The Researcher cites every claim. 
 
 Sensitive workspaces like Med run on isolated databases with separate credentials, and all data is encrypted in transit and at rest. We don't train our models on your data without explicit opt-in — you stay in control of what you share. Enterprise customers get additional security controls and audit trails.
 
-### Is the beta free?
+### Is there a free plan?
 
-Yes. The private beta is free while we gather feedback and refine the platform. Pricing for general availability will be announced before launch, and beta participants get priority access plus launch credits as a thank you.
+Yes. You can start free, and move up to a paid plan when the work needs it. The browser extension and the desktop app start from $8.19 a month, with no token caps. Every plan is on the pricing page.
 
 ### What's included in each workspace?
 
